@@ -1,0 +1,7 @@
+name = "DocTimestamps"
+uuid = "ae1673e9-3549-4a4d-8fda-97489b4a73e7"
+authors = ["filipemlourenco <filipe.lourenco.gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
